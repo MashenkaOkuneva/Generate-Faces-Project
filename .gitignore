@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+text8
+__pycache__/
+*.pkl
+__MACOSX/
+generate-faces-master.zip
+generate-faces-master/
+processed_celeba_small.zip
+processed_celeba_small/
